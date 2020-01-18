@@ -39,6 +39,5 @@
     "url": "https://github.com/clownvary/less-wrapper-loader/issues"
   },
   "homepage": "https://github.com/clownvary/less-wrapper-loader#readme",
-  "keywords": ["webpack", "webpack-loader", "less"],
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "keywords": ["webpack", "webpack-loader", "less"]
 }
