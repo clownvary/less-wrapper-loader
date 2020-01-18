@@ -75,6 +75,7 @@ render() {
       <div className="wrapper">
         ...
       </div>
+}
 ```
 
 3. run webpack, all less files you used will be wrapped a classname `wrapper` 
