@@ -1,0 +1,45 @@
+{
+  "name": "less-wrapper-loader",
+  "version": "1.0.0",
+  "description": "Generate a wrapped classname for less files automatically",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.4",
+    "@babel/core": "^7.7.4",
+    "@babel/node": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.3.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^24.9.0",
+    "jest-watch-typeahead": "^0.3.1",
+    "lodash": "^4.17.15"
+  },
+  "peerDependencies": {
+    "webpack": ">=4.35.x",
+    "lodash": ">=4.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clownvary/less-wrapper-loader.git"
+  },
+  "author": "garyw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clownvary/less-wrapper-loader/issues"
+  },
+  "homepage": "https://github.com/clownvary/less-wrapper-loader#readme",
+  "dependencies": {
+    "@types/jest": "^24.9.0"
+  },
+  "keywords": ["webpack", "webpack-loader", "less"]
+}
