@@ -1,8 +1,9 @@
 {
   "name": "less-wrapper-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate a wrapped classname for less files automatically",
   "main": "dist/index.js",
+  "files": [ "dist/*"],
   "scripts": {
     "build": "babel src -d dist",
     "test": "jest",
