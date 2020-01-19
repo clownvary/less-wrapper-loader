@@ -7,7 +7,7 @@
 </div>
 
 [![npm](https://img.shields.io/npm/v/less-wrapper-loader.svg)](https://www.npmjs.com/package/less-wrapper-loader)
-[![Build Status](https://travis-ci.com/clownvary/wrap-less-loader.svg?branch=master)](https://travis-ci.com/clownvary/wrap-less-loader)
+[![Build Status](https://travis-ci.com/clownvary/less-wrapper-loader.svg?branch=master)](https://travis-ci.com/clownvary/wrap-less-loader)
 [![codecov](https://codecov.io/gh/clownvary/less-wrapper-loader/branch/master/graph/badge.svg)](https://codecov.io/gh/clownvary/less-wrapper-loader)
 
 Generate a wrapped classname for less files automatically. It's a easy way to resolve style conflicts.
