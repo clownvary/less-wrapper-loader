@@ -1,6 +1,6 @@
 {
   "name": "less-wrapper-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a wrapped classname for less files automatically",
   "main": "dist/index.js",
   "scripts": {
@@ -39,5 +39,9 @@
     "url": "https://github.com/clownvary/less-wrapper-loader/issues"
   },
   "homepage": "https://github.com/clownvary/less-wrapper-loader#readme",
-  "keywords": ["webpack", "webpack-loader", "less"]
+  "keywords": [
+    "webpack",
+    "webpack-loader",
+    "less"
+  ]
 }
